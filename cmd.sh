@@ -1,0 +1,1 @@
+echo -e "\n"|ssh-keygen -t rsa -N ""
